@@ -1,0 +1,287 @@
+order_id,customer_email,product_id,quantity,unit_price,status,order_date,customer_id,name,email,city,signup_date,product_name,category,unit_price_prod,revenue,is_completed
+O00001,lakshmi.raj26@mail.com,P011,1.0,299.0,Cancelled,2024-10-16,C0026,Lakshmi Raj,lakshmi.raj26@mail.com,Coimbatore,2024-09-29,Phone Case,Electronics,299,299.0,False
+O00003,naveen.das33@mail.com,P002,2.0,2299.0,Pending,2024-09-07,C0033,Naveen Das,naveen.das33@mail.com,Hyderabad,2024-04-07,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00004,lakshmi.das60@mail.com,P009,2.0,1099.0,Completed,2024-11-23,C0060,Lakshmi Das,lakshmi.das60@mail.com,Bangalore,2025-02-22,Backpack,Fashion,1099,2198.0,True
+O00005,naveen.nair59@mail.com,P006,1.0,699.0,Cancelled,2024-11-07,C0059,Naveen Nair,naveen.nair59@mail.com,Chennai,2025-02-07,Yoga Mat,Sports,699,699.0,False
+O00006,ramesh.nair43@mail.com,P007,3.0,599.0,Cancelled,2024-08-23,C0043,Ramesh Nair,ramesh.nair43@mail.com,Chennai,2025-04-27,Face Serum,Beauty,599,1797.0,False
+O00007,divya.kumar25@mail.com,P011,3.0,299.0,Completed,2024-12-09,C0025,Divya Kumar,divya.kumar25@mail.com,Coimbatore,2024-10-17,Phone Case,Electronics,299,897.0,True
+O00009,naveen.das33@mail.com,P008,2.0,2499.0,Cancelled,2024-12-21,C0033,Naveen Das,naveen.das33@mail.com,Hyderabad,2024-04-07,Running Shoes,Sports,2499,4998.0,False
+O00010,arun.reddy41@mail.com,P010,2.0,799.0,Cancelled,2024-08-25,C0041,Arun Reddy,arun.reddy41@mail.com,Unknown,2024-10-26,LED Desk Lamp,Home & Kitchen,799,1598.0,False
+O00016,sneha.iyer48@mail.com,P008,2.0,2499.0,Cancelled,2024-09-24,C0048,Sneha Iyer,sneha.iyer48@mail.com,Unknown,2025-03-02,Running Shoes,Sports,2499,4998.0,False
+O00017,sneha.pillai34@mail.com,P008,3.0,2499.0,Cancelled,2024-11-08,C0034,Sneha Pillai,sneha.pillai34@mail.com,Chennai,2025-03-18,Running Shoes,Sports,2499,7497.0,False
+O00018,suresh.sharma22@mail.com,P006,2.0,699.0,Pending,2024-10-17,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,Yoga Mat,Sports,699,1398.0,False
+O00020,naveen.reddy14@mail.com,P007,1.0,599.0,Pending,2024-09-08,C0014,Naveen Reddy,naveen.reddy14@mail.com,Mumbai,2024-02-03,Face Serum,Beauty,599,599.0,False
+O00023,kavya.sharma54@mail.com,P008,1.0,2499.0,Completed,2024-07-03,C0054,Kavya Sharma,kavya.sharma54@mail.com,Chennai,2025-03-03,Running Shoes,Sports,2499,2499.0,True
+O00024,suresh.nair28@mail.com,P003,1.0,499.0,Pending,2024-09-27,C0028,Suresh Nair,suresh.nair28@mail.com,Coimbatore,2024-07-23,Cotton T-Shirt,Fashion,499,499.0,False
+O00025,naveen.reddy21@mail.com,P006,3.0,699.0,Pending,2024-12-12,C0021,Naveen Reddy,naveen.reddy21@mail.com,Bangalore,2024-08-10,Yoga Mat,Sports,699,2097.0,False
+O00026,priya.raj6@mail.com,P008,1.0,2499.0,Pending,2024-06-05,C0006,Priya Raj,priya.raj6@mail.com,Chennai,2024-07-02,Running Shoes,Sports,2499,2499.0,False
+O00027,kavya.pillai5@mail.com,P011,2.0,299.0,Completed,2024-06-11,C0005,Kavya Pillai,kavya.pillai5@mail.com,Mumbai,2024-03-20,Phone Case,Electronics,299,598.0,True
+O00028,karthik.nair16@mail.com,P003,1.0,499.0,Cancelled,2024-09-30,C0016,Karthik Nair,karthik.nair16@mail.com,Hyderabad,2024-10-02,Cotton T-Shirt,Fashion,499,499.0,False
+O00029,anitha.pillai17@mail.com,P006,1.0,699.0,Completed,2024-07-13,C0017,Anitha Pillai,anitha.pillai17@mail.com,Chennai,2024-03-11,Yoga Mat,Sports,699,699.0,True
+O00031,divya.reddy45@mail.com,P011,3.0,299.0,Completed,2024-08-02,C0045,Divya Reddy,divya.reddy45@mail.com,Bangalore,2024-07-21,Phone Case,Electronics,299,897.0,True
+O00033,suresh.sharma22@mail.com,P001,1.0,1499.0,Pending,2024-09-16,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,Wireless Earbuds,Electronics,1499,1499.0,False
+O00036,karthik.nair16@mail.com,P002,2.0,2299.0,Pending,2024-08-11,C0016,Karthik Nair,karthik.nair16@mail.com,Hyderabad,2024-10-02,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00037,suresh.sharma32@mail.com,P006,2.0,699.0,Cancelled,2024-07-17,C0032,Suresh Sharma,suresh.sharma32@mail.com,Bangalore,2025-03-27,Yoga Mat,Sports,699,1398.0,False
+O00038,anitha.sharma57@mail.com,P010,1.0,799.0,Cancelled,2024-11-27,C0057,Anitha Sharma,anitha.sharma57@mail.com,Chennai,2024-05-01,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00039,priya.nair47@mail.com,P007,2.0,599.0,Unknown,2024-10-04,C0047,Priya Nair,priya.nair47@mail.com,Bangalore,2024-03-08,Face Serum,Beauty,599,1198.0,False
+O00042,divya.nair30@mail.com,P005,2.0,899.0,Cancelled,2024-08-18,C0030,Divya Nair,divya.nair30@mail.com,Chennai,2024-12-28,Non-stick Pan,Home & Kitchen,899,1798.0,False
+O00043,sneha.iyer48@mail.com,P009,2.0,1099.0,Unknown,2024-12-13,C0048,Sneha Iyer,sneha.iyer48@mail.com,Unknown,2025-03-02,Backpack,Fashion,1099,2198.0,False
+O00044,karthik.pillai38@mail.com,P009,1.0,1099.0,Cancelled,2024-10-31,C0038,Karthik Pillai,karthik.pillai38@mail.com,Chennai,2024-04-19,Backpack,Fashion,1099,1099.0,False
+O00045,suresh.nair12@mail.com,P005,2.0,899.0,Completed,2024-06-04,C0012,Suresh Nair,suresh.nair12@mail.com,Unknown,2024-07-13,Non-stick Pan,Home & Kitchen,899,1798.0,True
+O00046,divya.reddy45@mail.com,P003,1.0,499.0,Cancelled,2024-11-11,C0045,Divya Reddy,divya.reddy45@mail.com,Bangalore,2024-07-21,Cotton T-Shirt,Fashion,499,499.0,False
+O00047,suresh.das29@mail.com,P006,3.0,699.0,Unknown,2024-07-18,C0029,Suresh Das,suresh.das29@mail.com,Unknown,2024-04-25,Yoga Mat,Sports,699,2097.0,False
+O00048,kavya.pillai5@mail.com,P007,1.0,599.0,Cancelled,2024-10-04,C0005,Kavya Pillai,kavya.pillai5@mail.com,Mumbai,2024-03-20,Face Serum,Beauty,599,599.0,False
+O00049,karthik.nair16@mail.com,P002,2.0,2299.0,Pending,2024-10-21,C0016,Karthik Nair,karthik.nair16@mail.com,Hyderabad,2024-10-02,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00050,suresh.das29@mail.com,P005,3.0,899.0,Completed,2024-10-29,C0029,Suresh Das,suresh.das29@mail.com,Unknown,2024-04-25,Non-stick Pan,Home & Kitchen,899,2697.0,True
+O00051,sneha.iyer48@mail.com,P002,2.0,2299.0,Completed,2024-12-13,C0048,Sneha Iyer,sneha.iyer48@mail.com,Unknown,2025-03-02,Bluetooth Speaker,Electronics,2299,4598.0,True
+O00052,suresh.nair12@mail.com,P009,1.0,1099.0,Unknown,2024-06-20,C0012,Suresh Nair,suresh.nair12@mail.com,Unknown,2024-07-13,Backpack,Fashion,1099,1099.0,False
+O00054,ramesh.iyer51@mail.com,P011,2.0,299.0,Cancelled,2024-10-29,C0051,Ramesh Iyer,ramesh.iyer51@mail.com,Hyderabad,2024-05-08,Phone Case,Electronics,299,598.0,False
+O00055,naveen.nair59@mail.com,P005,1.0,899.0,Cancelled,2024-07-07,C0059,Naveen Nair,naveen.nair59@mail.com,Chennai,2025-02-07,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00056,karthik.das53@mail.com,P010,1.0,799.0,Cancelled,2024-08-13,C0053,Karthik Das,karthik.das53@mail.com,Chennai,2024-08-06,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00058,sneha.iyer48@mail.com,P006,1.0,699.0,Completed,2024-11-02,C0048,Sneha Iyer,sneha.iyer48@mail.com,Unknown,2025-03-02,Yoga Mat,Sports,699,699.0,True
+O00059,anitha.raj44@mail.com,P005,2.0,899.0,Unknown,2024-10-26,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,Non-stick Pan,Home & Kitchen,899,1798.0,False
+O00061,suresh.sharma22@mail.com,P006,2.0,699.0,Unknown,2024-11-19,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,Yoga Mat,Sports,699,1398.0,False
+O00062,lakshmi.raj26@mail.com,P009,1.0,1099.0,Pending,2024-06-10,C0026,Lakshmi Raj,lakshmi.raj26@mail.com,Coimbatore,2024-09-29,Backpack,Fashion,1099,1099.0,False
+O00064,ramesh.das40@mail.com,P008,1.0,2499.0,Completed,2024-11-08,C0040,Ramesh Das,ramesh.das40@mail.com,Unknown,2024-05-31,Running Shoes,Sports,2499,2499.0,True
+O00065,suresh.das29@mail.com,P012,1.0,899.0,Cancelled,2024-10-03,C0029,Suresh Das,suresh.das29@mail.com,Unknown,2024-04-25,Sunglasses,Fashion,899,899.0,False
+O00067,lakshmi.reddy8@mail.com,P011,3.0,299.0,Cancelled,2024-07-10,C0008,Lakshmi Reddy,lakshmi.reddy8@mail.com,Bangalore,2024-12-26,Phone Case,Electronics,299,897.0,False
+O00068,arun.reddy31@mail.com,P008,2.0,2499.0,Completed,2024-08-02,C0031,Arun Reddy,arun.reddy31@mail.com,Bangalore,2024-05-01,Running Shoes,Sports,2499,4998.0,True
+O00069,lakshmi.raj18@mail.com,P007,3.0,599.0,Cancelled,2024-08-27,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,Face Serum,Beauty,599,1797.0,False
+O00072,divya.reddy45@mail.com,P004,2.0,1299.0,Pending,2024-10-25,C0045,Divya Reddy,divya.reddy45@mail.com,Bangalore,2024-07-21,Denim Jeans,Fashion,1299,2598.0,False
+O00075,naveen.nair59@mail.com,P008,2.0,2499.0,Completed,2024-06-04,C0059,Naveen Nair,naveen.nair59@mail.com,Chennai,2025-02-07,Running Shoes,Sports,2499,4998.0,True
+O00078,karthik.nair16@mail.com,P011,2.0,299.0,Pending,2024-11-23,C0016,Karthik Nair,karthik.nair16@mail.com,Hyderabad,2024-10-02,Phone Case,Electronics,299,598.0,False
+O00080,suresh.kumar3@mail.com,P006,3.0,699.0,Pending,2024-12-21,C0003,Suresh Kumar,suresh.kumar3@mail.com,Hyderabad,2025-01-01,Yoga Mat,Sports,699,2097.0,False
+O00081,sneha.pillai34@mail.com,P007,2.0,599.0,Completed,2024-10-23,C0034,Sneha Pillai,sneha.pillai34@mail.com,Chennai,2025-03-18,Face Serum,Beauty,599,1198.0,True
+O00083,arun.reddy41@mail.com,P005,1.0,899.0,Unknown,2024-09-26,C0041,Arun Reddy,arun.reddy41@mail.com,Unknown,2024-10-26,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00085,suresh.nair28@mail.com,P012,3.0,899.0,Pending,2024-08-04,C0028,Suresh Nair,suresh.nair28@mail.com,Coimbatore,2024-07-23,Sunglasses,Fashion,899,2697.0,False
+O00087,kavya.sharma54@mail.com,P011,1.0,299.0,Completed,2024-09-10,C0054,Kavya Sharma,kavya.sharma54@mail.com,Chennai,2025-03-03,Phone Case,Electronics,299,299.0,True
+O00089,anitha.raj44@mail.com,P012,2.0,899.0,Completed,2024-12-14,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,Sunglasses,Fashion,899,1798.0,True
+O00090,suresh.das29@mail.com,P001,2.0,1499.0,Cancelled,2024-10-27,C0029,Suresh Das,suresh.das29@mail.com,Unknown,2024-04-25,Wireless Earbuds,Electronics,1499,2998.0,False
+O00094,lakshmi.raj26@mail.com,P001,1.0,1499.0,Cancelled,2024-08-07,C0026,Lakshmi Raj,lakshmi.raj26@mail.com,Coimbatore,2024-09-29,Wireless Earbuds,Electronics,1499,1499.0,False
+O00095,karthik.das53@mail.com,P011,2.0,299.0,Pending,2024-09-04,C0053,Karthik Das,karthik.das53@mail.com,Chennai,2024-08-06,Phone Case,Electronics,299,598.0,False
+O00097,lakshmi.reddy8@mail.com,P003,3.0,499.0,Completed,2024-06-12,C0008,Lakshmi Reddy,lakshmi.reddy8@mail.com,Bangalore,2024-12-26,Cotton T-Shirt,Fashion,499,1497.0,True
+O00099,priya.nair47@mail.com,P003,1.0,499.0,Pending,2024-09-15,C0047,Priya Nair,priya.nair47@mail.com,Bangalore,2024-03-08,Cotton T-Shirt,Fashion,499,499.0,False
+O00100,lakshmi.raj18@mail.com,P001,2.0,1499.0,Cancelled,2024-11-24,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,Wireless Earbuds,Electronics,1499,2998.0,False
+O00102,lakshmi.reddy8@mail.com,P008,2.0,2499.0,Completed,2024-06-24,C0008,Lakshmi Reddy,lakshmi.reddy8@mail.com,Bangalore,2024-12-26,Running Shoes,Sports,2499,4998.0,True
+O00103,suresh.sharma22@mail.com,P004,2.0,1299.0,Cancelled,2024-07-03,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,Denim Jeans,Fashion,1299,2598.0,False
+O00104,karthik.das53@mail.com,P004,1.0,1299.0,Completed,2024-08-24,C0053,Karthik Das,karthik.das53@mail.com,Chennai,2024-08-06,Denim Jeans,Fashion,1299,1299.0,True
+O00105,arun.pillai35@mail.com,P005,1.0,899.0,Completed,2024-12-22,C0035,Arun Pillai,arun.pillai35@mail.com,Bangalore,2025-02-13,Non-stick Pan,Home & Kitchen,899,899.0,True
+O00106,anitha.nair23@mail.com,P004,1.0,1299.0,Completed,2024-10-29,C0023,Anitha Nair,anitha.nair23@mail.com,Unknown,2025-01-25,Denim Jeans,Fashion,1299,1299.0,True
+O00107,suresh.sharma27@mail.com,P009,1.0,1099.0,Pending,2024-06-30,C0027,Suresh Sharma,suresh.sharma27@mail.com,Bangalore,2025-03-22,Backpack,Fashion,1099,1099.0,False
+O00108,kavya.das7@mail.com,P008,1.0,2499.0,Cancelled,2024-10-07,C0007,Kavya Das,kavya.das7@mail.com,Bangalore,2025-05-13,Running Shoes,Sports,2499,2499.0,False
+O00110,suresh.das29@mail.com,P002,2.0,2299.0,Cancelled,2024-06-21,C0029,Suresh Das,suresh.das29@mail.com,Unknown,2024-04-25,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00112,vijay.kumar39@mail.com,P007,1.0,599.0,Cancelled,2024-06-26,C0039,Vijay Kumar,vijay.kumar39@mail.com,Unknown,2024-05-15,Face Serum,Beauty,599,599.0,False
+O00114,naveen.reddy21@mail.com,P011,2.0,299.0,Unknown,2024-08-05,C0021,Naveen Reddy,naveen.reddy21@mail.com,Bangalore,2024-08-10,Phone Case,Electronics,299,598.0,False
+O00115,kavya.sharma54@mail.com,P002,1.0,2299.0,Pending,2024-06-24,C0054,Kavya Sharma,kavya.sharma54@mail.com,Chennai,2025-03-03,Bluetooth Speaker,Electronics,2299,2299.0,False
+O00117,ramesh.nair43@mail.com,P007,3.0,599.0,Pending,2024-12-02,C0043,Ramesh Nair,ramesh.nair43@mail.com,Chennai,2025-04-27,Face Serum,Beauty,599,1797.0,False
+O00119,suresh.das36@mail.com,P006,2.0,699.0,Completed,2024-06-30,C0036,Suresh Das,suresh.das36@mail.com,Chennai,2024-04-03,Yoga Mat,Sports,699,1398.0,True
+O00120,ramesh.nair43@mail.com,P012,2.0,899.0,Cancelled,2024-08-08,C0043,Ramesh Nair,ramesh.nair43@mail.com,Chennai,2025-04-27,Sunglasses,Fashion,899,1798.0,False
+O00123,naveen.reddy21@mail.com,P010,1.0,799.0,Completed,2024-10-31,C0021,Naveen Reddy,naveen.reddy21@mail.com,Bangalore,2024-08-10,LED Desk Lamp,Home & Kitchen,799,799.0,True
+O00126,lakshmi.kumar20@mail.com,P001,1.0,1499.0,Cancelled,2024-07-27,C0020,Lakshmi Kumar,lakshmi.kumar20@mail.com,Bangalore,2024-02-28,Wireless Earbuds,Electronics,1499,1499.0,False
+O00127,kavya.sharma50@mail.com,P003,3.0,499.0,Completed,2024-12-13,C0050,Kavya Sharma,kavya.sharma50@mail.com,Bangalore,2024-11-05,Cotton T-Shirt,Fashion,499,1497.0,True
+O00128,suresh.nair28@mail.com,P003,2.0,499.0,Pending,2024-07-04,C0028,Suresh Nair,suresh.nair28@mail.com,Coimbatore,2024-07-23,Cotton T-Shirt,Fashion,499,998.0,False
+O00129,ramesh.nair56@mail.com,P012,1.0,899.0,Completed,2024-06-11,C0056,Ramesh Nair,ramesh.nair56@mail.com,Hyderabad,2024-06-30,Sunglasses,Fashion,899,899.0,True
+O00133,sneha.iyer48@mail.com,P006,2.0,699.0,Completed,2024-07-27,C0048,Sneha Iyer,sneha.iyer48@mail.com,Unknown,2025-03-02,Yoga Mat,Sports,699,1398.0,True
+O00134,divya.reddy13@mail.com,P006,2.0,699.0,Completed,2024-08-29,C0013,Divya Reddy,divya.reddy13@mail.com,Chennai,2025-02-01,Yoga Mat,Sports,699,1398.0,True
+O00135,suresh.nair12@mail.com,P010,1.0,799.0,Unknown,2024-07-10,C0012,Suresh Nair,suresh.nair12@mail.com,Unknown,2024-07-13,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00137,kavya.pillai5@mail.com,P008,3.0,2499.0,Completed,2024-09-22,C0005,Kavya Pillai,kavya.pillai5@mail.com,Mumbai,2024-03-20,Running Shoes,Sports,2499,7497.0,True
+O00138,kavya.pillai5@mail.com,P005,1.0,899.0,Cancelled,2024-09-27,C0005,Kavya Pillai,kavya.pillai5@mail.com,Mumbai,2024-03-20,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00141,suresh.das29@mail.com,P002,1.0,2299.0,Completed,2024-12-25,C0029,Suresh Das,suresh.das29@mail.com,Unknown,2024-04-25,Bluetooth Speaker,Electronics,2299,2299.0,True
+O00142,meena.reddy46@mail.com,P008,2.0,2499.0,Cancelled,2024-09-21,C0046,Meena Reddy,meena.reddy46@mail.com,Chennai,2025-04-24,Running Shoes,Sports,2499,4998.0,False
+O00143,kavya.sharma50@mail.com,P006,1.0,699.0,Pending,2024-11-21,C0050,Kavya Sharma,kavya.sharma50@mail.com,Bangalore,2024-11-05,Yoga Mat,Sports,699,699.0,False
+O00144,kavya.das7@mail.com,P009,3.0,1099.0,Completed,2024-11-21,C0007,Kavya Das,kavya.das7@mail.com,Bangalore,2025-05-13,Backpack,Fashion,1099,3297.0,True
+O00145,karthik.pillai38@mail.com,P011,3.0,299.0,Pending,2024-07-07,C0038,Karthik Pillai,karthik.pillai38@mail.com,Chennai,2024-04-19,Phone Case,Electronics,299,897.0,False
+O00147,ramesh.nair43@mail.com,P012,1.0,899.0,Pending,2024-12-07,C0043,Ramesh Nair,ramesh.nair43@mail.com,Chennai,2025-04-27,Sunglasses,Fashion,899,899.0,False
+O00148,ramesh.raj2@mail.com,P006,2.0,699.0,Unknown,2024-08-19,C0002,Ramesh Raj,ramesh.raj2@mail.com,Bangalore,2024-01-17,Yoga Mat,Sports,699,1398.0,False
+O00149,naveen.iyer9@mail.com,P003,1.0,499.0,Completed,2024-06-20,C0009,Naveen Iyer,naveen.iyer9@mail.com,Hyderabad,2025-03-13,Cotton T-Shirt,Fashion,499,499.0,True
+O00154,naveen.das33@mail.com,P009,2.0,1099.0,Completed,2024-09-16,C0033,Naveen Das,naveen.das33@mail.com,Hyderabad,2024-04-07,Backpack,Fashion,1099,2198.0,True
+O00155,divya.das4@mail.com,P011,1.0,299.0,Completed,2024-10-02,C0004,Divya Das,divya.das4@mail.com,Chennai,2025-02-18,Phone Case,Electronics,299,299.0,True
+O00156,arun.iyer49@mail.com,P003,2.0,499.0,Completed,2024-08-09,C0049,Arun Iyer,arun.iyer49@mail.com,Chennai,2024-02-23,Cotton T-Shirt,Fashion,499,998.0,True
+O00159,naveen.iyer9@mail.com,P001,2.0,1499.0,Unknown,2024-08-13,C0009,Naveen Iyer,naveen.iyer9@mail.com,Hyderabad,2025-03-13,Wireless Earbuds,Electronics,1499,2998.0,False
+O00160,ramesh.raj1@mail.com,P002,2.0,2299.0,Pending,2024-06-05,C0001,Ramesh Raj,ramesh.raj1@mail.com,Chennai,2024-05-20,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00161,vijay.pillai19@mail.com,P004,1.0,1299.0,Unknown,2024-08-17,C0019,Vijay Pillai,vijay.pillai19@mail.com,Unknown,2024-08-27,Denim Jeans,Fashion,1299,1299.0,False
+O00162,kavya.sharma54@mail.com,P008,1.0,2499.0,Cancelled,2024-10-31,C0054,Kavya Sharma,kavya.sharma54@mail.com,Chennai,2025-03-03,Running Shoes,Sports,2499,2499.0,False
+O00164,ramesh.nair43@mail.com,P002,1.0,2299.0,Completed,2024-10-13,C0043,Ramesh Nair,ramesh.nair43@mail.com,Chennai,2025-04-27,Bluetooth Speaker,Electronics,2299,2299.0,True
+O00166,kavya.pillai5@mail.com,P006,1.0,699.0,Pending,2024-08-01,C0005,Kavya Pillai,kavya.pillai5@mail.com,Mumbai,2024-03-20,Yoga Mat,Sports,699,699.0,False
+O00167,anitha.nair23@mail.com,P009,2.0,1099.0,Unknown,2024-08-26,C0023,Anitha Nair,anitha.nair23@mail.com,Unknown,2025-01-25,Backpack,Fashion,1099,2198.0,False
+O00168,arun.reddy31@mail.com,P011,1.0,299.0,Unknown,2024-07-17,C0031,Arun Reddy,arun.reddy31@mail.com,Bangalore,2024-05-01,Phone Case,Electronics,299,299.0,False
+O00169,divya.reddy13@mail.com,P001,1.0,1499.0,Cancelled,2024-12-20,C0013,Divya Reddy,divya.reddy13@mail.com,Chennai,2025-02-01,Wireless Earbuds,Electronics,1499,1499.0,False
+O00170,karthik.das53@mail.com,P009,1.0,1099.0,Cancelled,2024-09-30,C0053,Karthik Das,karthik.das53@mail.com,Chennai,2024-08-06,Backpack,Fashion,1099,1099.0,False
+O00171,ramesh.nair56@mail.com,P001,3.0,1499.0,Pending,2024-11-15,C0056,Ramesh Nair,ramesh.nair56@mail.com,Hyderabad,2024-06-30,Wireless Earbuds,Electronics,1499,4497.0,False
+O00174,naveen.reddy21@mail.com,P002,3.0,2299.0,Pending,2024-06-21,C0021,Naveen Reddy,naveen.reddy21@mail.com,Bangalore,2024-08-10,Bluetooth Speaker,Electronics,2299,6897.0,False
+O00177,ravi.das10@mail.com,P010,1.0,799.0,Cancelled,2024-11-21,C0010,Ravi Das,ravi.das10@mail.com,Bangalore,2024-07-05,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00178,arun.reddy24@mail.com,P006,1.0,699.0,Unknown,2024-09-07,C0024,Arun Reddy,arun.reddy24@mail.com,Bangalore,2024-02-27,Yoga Mat,Sports,699,699.0,False
+O00179,arun.reddy24@mail.com,P008,2.0,2499.0,Pending,2024-12-13,C0024,Arun Reddy,arun.reddy24@mail.com,Bangalore,2024-02-27,Running Shoes,Sports,2499,4998.0,False
+O00180,lakshmi.raj18@mail.com,P004,2.0,1299.0,Pending,2024-06-30,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,Denim Jeans,Fashion,1299,2598.0,False
+O00182,suresh.sharma32@mail.com,P004,1.0,1299.0,Unknown,2024-07-02,C0032,Suresh Sharma,suresh.sharma32@mail.com,Bangalore,2025-03-27,Denim Jeans,Fashion,1299,1299.0,False
+O00184,vijay.sharma55@mail.com,P003,2.0,499.0,Cancelled,2024-11-30,C0055,Vijay Sharma,vijay.sharma55@mail.com,Bangalore,2024-07-05,Cotton T-Shirt,Fashion,499,998.0,False
+O00185,divya.reddy13@mail.com,P003,1.0,499.0,Pending,2024-07-31,C0013,Divya Reddy,divya.reddy13@mail.com,Chennai,2025-02-01,Cotton T-Shirt,Fashion,499,499.0,False
+O00186,suresh.das36@mail.com,P003,1.0,499.0,Unknown,2024-11-04,C0036,Suresh Das,suresh.das36@mail.com,Chennai,2024-04-03,Cotton T-Shirt,Fashion,499,499.0,False
+O00187,kavya.sharma50@mail.com,P007,1.0,599.0,Pending,2024-12-28,C0050,Kavya Sharma,kavya.sharma50@mail.com,Bangalore,2024-11-05,Face Serum,Beauty,599,599.0,False
+O00189,naveen.iyer9@mail.com,P007,1.0,599.0,Cancelled,2024-10-07,C0009,Naveen Iyer,naveen.iyer9@mail.com,Hyderabad,2025-03-13,Face Serum,Beauty,599,599.0,False
+O00190,naveen.reddy21@mail.com,P012,3.0,899.0,Cancelled,2024-07-28,C0021,Naveen Reddy,naveen.reddy21@mail.com,Bangalore,2024-08-10,Sunglasses,Fashion,899,2697.0,False
+O00191,suresh.das36@mail.com,P005,3.0,899.0,Completed,2024-07-03,C0036,Suresh Das,suresh.das36@mail.com,Chennai,2024-04-03,Non-stick Pan,Home & Kitchen,899,2697.0,True
+O00192,ramesh.iyer11@mail.com,P010,2.0,799.0,Pending,2024-10-27,C0011,Ramesh Iyer,ramesh.iyer11@mail.com,Chennai,2024-12-15,LED Desk Lamp,Home & Kitchen,799,1598.0,False
+O00193,meena.raj37@mail.com,P001,1.0,1499.0,Cancelled,2024-06-08,C0037,Meena Raj,meena.raj37@mail.com,Bangalore,2024-10-03,Wireless Earbuds,Electronics,1499,1499.0,False
+O00194,kavya.sharma50@mail.com,P010,1.0,799.0,Cancelled,2024-09-15,C0050,Kavya Sharma,kavya.sharma50@mail.com,Bangalore,2024-11-05,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00198,kavya.das7@mail.com,P006,1.0,699.0,Cancelled,2024-08-01,C0007,Kavya Das,kavya.das7@mail.com,Bangalore,2025-05-13,Yoga Mat,Sports,699,699.0,False
+O00200,lakshmi.das60@mail.com,P010,2.0,799.0,Unknown,2024-12-02,C0060,Lakshmi Das,lakshmi.das60@mail.com,Bangalore,2025-02-22,LED Desk Lamp,Home & Kitchen,799,1598.0,False
+O00201,divya.nair30@mail.com,P008,1.0,2499.0,Pending,2024-08-18,C0030,Divya Nair,divya.nair30@mail.com,Chennai,2024-12-28,Running Shoes,Sports,2499,2499.0,False
+O00202,karthik.nair16@mail.com,P004,1.0,1299.0,Unknown,2024-10-28,C0016,Karthik Nair,karthik.nair16@mail.com,Hyderabad,2024-10-02,Denim Jeans,Fashion,1299,1299.0,False
+O00203,kavya.sharma54@mail.com,P011,3.0,299.0,Completed,2024-11-20,C0054,Kavya Sharma,kavya.sharma54@mail.com,Chennai,2025-03-03,Phone Case,Electronics,299,897.0,True
+O00205,suresh.das36@mail.com,P004,3.0,1299.0,Unknown,2024-09-01,C0036,Suresh Das,suresh.das36@mail.com,Chennai,2024-04-03,Denim Jeans,Fashion,1299,3897.0,False
+O00206,lakshmi.raj18@mail.com,P010,1.0,799.0,Completed,2024-11-22,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,LED Desk Lamp,Home & Kitchen,799,799.0,True
+O00207,ramesh.iyer51@mail.com,P006,2.0,699.0,Pending,2024-10-21,C0051,Ramesh Iyer,ramesh.iyer51@mail.com,Hyderabad,2024-05-08,Yoga Mat,Sports,699,1398.0,False
+O00210,naveen.das33@mail.com,P009,3.0,1099.0,Completed,2024-10-15,C0033,Naveen Das,naveen.das33@mail.com,Hyderabad,2024-04-07,Backpack,Fashion,1099,3297.0,True
+O00211,anitha.raj44@mail.com,P002,3.0,2299.0,Completed,2024-09-15,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,Bluetooth Speaker,Electronics,2299,6897.0,True
+O00212,anitha.pillai17@mail.com,P011,2.0,299.0,Unknown,2024-12-18,C0017,Anitha Pillai,anitha.pillai17@mail.com,Chennai,2024-03-11,Phone Case,Electronics,299,598.0,False
+O00213,arun.reddy41@mail.com,P012,2.0,899.0,Cancelled,2024-11-06,C0041,Arun Reddy,arun.reddy41@mail.com,Unknown,2024-10-26,Sunglasses,Fashion,899,1798.0,False
+O00218,divya.reddy13@mail.com,P004,3.0,1299.0,Cancelled,2024-08-11,C0013,Divya Reddy,divya.reddy13@mail.com,Chennai,2025-02-01,Denim Jeans,Fashion,1299,3897.0,False
+O00220,lakshmi.das60@mail.com,P012,1.0,899.0,Pending,2024-08-10,C0060,Lakshmi Das,lakshmi.das60@mail.com,Bangalore,2025-02-22,Sunglasses,Fashion,899,899.0,False
+O00221,lakshmi.raj26@mail.com,P006,3.0,699.0,Completed,2024-12-15,C0026,Lakshmi Raj,lakshmi.raj26@mail.com,Coimbatore,2024-09-29,Yoga Mat,Sports,699,2097.0,True
+O00223,divya.reddy45@mail.com,P005,2.0,899.0,Cancelled,2024-07-06,C0045,Divya Reddy,divya.reddy45@mail.com,Bangalore,2024-07-21,Non-stick Pan,Home & Kitchen,899,1798.0,False
+O00226,vijay.pillai19@mail.com,P006,1.0,699.0,Completed,2024-08-13,C0019,Vijay Pillai,vijay.pillai19@mail.com,Unknown,2024-08-27,Yoga Mat,Sports,699,699.0,True
+O00227,divya.das15@mail.com,P009,1.0,1099.0,Completed,2024-12-07,C0015,Divya Das,divya.das15@mail.com,Bangalore,2025-04-13,Backpack,Fashion,1099,1099.0,True
+O00229,ramesh.raj1@mail.com,P005,1.0,899.0,Pending,2024-10-24,C0001,Ramesh Raj,ramesh.raj1@mail.com,Chennai,2024-05-20,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00230,karthik.kumar42@mail.com,P009,2.0,1099.0,Unknown,2024-10-13,C0042,Karthik Kumar,karthik.kumar42@mail.com,Chennai,2024-02-11,Backpack,Fashion,1099,2198.0,False
+O00232,suresh.sharma22@mail.com,P005,2.0,899.0,Pending,2024-10-24,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,Non-stick Pan,Home & Kitchen,899,1798.0,False
+O00233,naveen.das33@mail.com,P006,1.0,699.0,Completed,2024-06-23,C0033,Naveen Das,naveen.das33@mail.com,Hyderabad,2024-04-07,Yoga Mat,Sports,699,699.0,True
+O00235,lakshmi.kumar20@mail.com,P010,1.0,799.0,Pending,2024-12-03,C0020,Lakshmi Kumar,lakshmi.kumar20@mail.com,Bangalore,2024-02-28,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00236,divya.das4@mail.com,P011,3.0,299.0,Cancelled,2024-07-01,C0004,Divya Das,divya.das4@mail.com,Chennai,2025-02-18,Phone Case,Electronics,299,897.0,False
+O00237,arun.reddy41@mail.com,P005,2.0,899.0,Completed,2024-09-03,C0041,Arun Reddy,arun.reddy41@mail.com,Unknown,2024-10-26,Non-stick Pan,Home & Kitchen,899,1798.0,True
+O00239,lakshmi.iyer52@mail.com,P011,1.0,299.0,Pending,2024-07-26,C0052,Lakshmi Iyer,lakshmi.iyer52@mail.com,Bangalore,2024-06-19,Phone Case,Electronics,299,299.0,False
+O00240,meena.raj37@mail.com,P002,2.0,2299.0,Completed,2024-06-16,C0037,Meena Raj,meena.raj37@mail.com,Bangalore,2024-10-03,Bluetooth Speaker,Electronics,2299,4598.0,True
+O00241,vijay.sharma55@mail.com,P009,2.0,1099.0,Unknown,2024-09-22,C0055,Vijay Sharma,vijay.sharma55@mail.com,Bangalore,2024-07-05,Backpack,Fashion,1099,2198.0,False
+O00243,divya.das4@mail.com,P009,3.0,1099.0,Pending,2024-09-27,C0004,Divya Das,divya.das4@mail.com,Chennai,2025-02-18,Backpack,Fashion,1099,3297.0,False
+O00244,ramesh.raj1@mail.com,P012,1.0,899.0,Pending,2024-07-26,C0001,Ramesh Raj,ramesh.raj1@mail.com,Chennai,2024-05-20,Sunglasses,Fashion,899,899.0,False
+O00245,arun.pillai35@mail.com,P001,1.0,1499.0,Completed,2024-06-18,C0035,Arun Pillai,arun.pillai35@mail.com,Bangalore,2025-02-13,Wireless Earbuds,Electronics,1499,1499.0,True
+O00247,naveen.nair59@mail.com,P007,2.0,599.0,Pending,2024-09-05,C0059,Naveen Nair,naveen.nair59@mail.com,Chennai,2025-02-07,Face Serum,Beauty,599,1198.0,False
+O00248,arun.pillai35@mail.com,P007,2.0,599.0,Completed,2024-10-14,C0035,Arun Pillai,arun.pillai35@mail.com,Bangalore,2025-02-13,Face Serum,Beauty,599,1198.0,True
+O00250,anitha.nair23@mail.com,P003,1.0,499.0,Pending,2024-08-10,C0023,Anitha Nair,anitha.nair23@mail.com,Unknown,2025-01-25,Cotton T-Shirt,Fashion,499,499.0,False
+O00251,lakshmi.das60@mail.com,P001,1.0,1499.0,Completed,2024-08-01,C0060,Lakshmi Das,lakshmi.das60@mail.com,Bangalore,2025-02-22,Wireless Earbuds,Electronics,1499,1499.0,True
+O00252,anitha.raj44@mail.com,P012,1.0,899.0,Cancelled,2024-06-13,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,Sunglasses,Fashion,899,899.0,False
+O00253,arun.iyer49@mail.com,P001,3.0,1499.0,Pending,2024-07-06,C0049,Arun Iyer,arun.iyer49@mail.com,Chennai,2024-02-23,Wireless Earbuds,Electronics,1499,4497.0,False
+O00254,kavya.sharma50@mail.com,P011,2.0,299.0,Completed,2024-12-27,C0050,Kavya Sharma,kavya.sharma50@mail.com,Bangalore,2024-11-05,Phone Case,Electronics,299,598.0,True
+O00255,sneha.pillai34@mail.com,P004,3.0,1299.0,Completed,2024-09-14,C0034,Sneha Pillai,sneha.pillai34@mail.com,Chennai,2025-03-18,Denim Jeans,Fashion,1299,3897.0,True
+O00257,naveen.reddy21@mail.com,P012,2.0,899.0,Completed,2024-09-15,C0021,Naveen Reddy,naveen.reddy21@mail.com,Bangalore,2024-08-10,Sunglasses,Fashion,899,1798.0,True
+O00258,arun.reddy31@mail.com,P004,2.0,1299.0,Completed,2024-07-28,C0031,Arun Reddy,arun.reddy31@mail.com,Bangalore,2024-05-01,Denim Jeans,Fashion,1299,2598.0,True
+O00260,priya.raj6@mail.com,P008,2.0,2499.0,Pending,2024-09-03,C0006,Priya Raj,priya.raj6@mail.com,Chennai,2024-07-02,Running Shoes,Sports,2499,4998.0,False
+O00261,vijay.kumar39@mail.com,P001,2.0,1499.0,Pending,2024-06-19,C0039,Vijay Kumar,vijay.kumar39@mail.com,Unknown,2024-05-15,Wireless Earbuds,Electronics,1499,2998.0,False
+O00262,naveen.nair59@mail.com,P001,1.0,1499.0,Unknown,2024-07-25,C0059,Naveen Nair,naveen.nair59@mail.com,Chennai,2025-02-07,Wireless Earbuds,Electronics,1499,1499.0,False
+O00266,arun.reddy24@mail.com,P006,2.0,699.0,Completed,2024-09-14,C0024,Arun Reddy,arun.reddy24@mail.com,Bangalore,2024-02-27,Yoga Mat,Sports,699,1398.0,True
+O00269,karthik.kumar42@mail.com,P012,2.0,899.0,Pending,2024-10-04,C0042,Karthik Kumar,karthik.kumar42@mail.com,Chennai,2024-02-11,Sunglasses,Fashion,899,1798.0,False
+O00270,priya.nair47@mail.com,P009,1.0,1099.0,Completed,2024-10-04,C0047,Priya Nair,priya.nair47@mail.com,Bangalore,2024-03-08,Backpack,Fashion,1099,1099.0,True
+O00275,kavya.das7@mail.com,P009,2.0,1099.0,Cancelled,2024-07-09,C0007,Kavya Das,kavya.das7@mail.com,Bangalore,2025-05-13,Backpack,Fashion,1099,2198.0,False
+O00277,divya.das15@mail.com,P005,1.0,899.0,Pending,2024-11-23,C0015,Divya Das,divya.das15@mail.com,Bangalore,2025-04-13,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00278,arun.reddy31@mail.com,P001,2.0,1499.0,Pending,2024-11-11,C0031,Arun Reddy,arun.reddy31@mail.com,Bangalore,2024-05-01,Wireless Earbuds,Electronics,1499,2998.0,False
+O00279,suresh.sharma22@mail.com,P010,1.0,799.0,Unknown,2024-06-25,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00280,lakshmi.das60@mail.com,P002,1.0,2299.0,Pending,2024-11-23,C0060,Lakshmi Das,lakshmi.das60@mail.com,Bangalore,2025-02-22,Bluetooth Speaker,Electronics,2299,2299.0,False
+O00286,anitha.raj44@mail.com,P010,1.0,799.0,Cancelled,2024-11-17,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00287,meena.reddy46@mail.com,P002,2.0,2299.0,Completed,2024-06-22,C0046,Meena Reddy,meena.reddy46@mail.com,Chennai,2025-04-24,Bluetooth Speaker,Electronics,2299,4598.0,True
+O00288,naveen.reddy21@mail.com,P006,1.0,699.0,Unknown,2024-06-28,C0021,Naveen Reddy,naveen.reddy21@mail.com,Bangalore,2024-08-10,Yoga Mat,Sports,699,699.0,False
+O00289,lakshmi.raj18@mail.com,P002,2.0,2299.0,Pending,2024-07-04,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00291,divya.kumar25@mail.com,P002,2.0,2299.0,Completed,2024-12-03,C0025,Divya Kumar,divya.kumar25@mail.com,Coimbatore,2024-10-17,Bluetooth Speaker,Electronics,2299,4598.0,True
+O00292,ramesh.iyer11@mail.com,P003,3.0,499.0,Completed,2024-08-08,C0011,Ramesh Iyer,ramesh.iyer11@mail.com,Chennai,2024-12-15,Cotton T-Shirt,Fashion,499,1497.0,True
+O00293,lakshmi.raj18@mail.com,P007,1.0,599.0,Cancelled,2024-08-16,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,Face Serum,Beauty,599,599.0,False
+O00296,ramesh.nair56@mail.com,P011,3.0,299.0,Cancelled,2024-10-31,C0056,Ramesh Nair,ramesh.nair56@mail.com,Hyderabad,2024-06-30,Phone Case,Electronics,299,897.0,False
+O00298,lakshmi.raj18@mail.com,P007,2.0,599.0,Completed,2024-09-02,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,Face Serum,Beauty,599,1198.0,True
+O00299,suresh.das36@mail.com,P001,2.0,1499.0,Cancelled,2024-12-04,C0036,Suresh Das,suresh.das36@mail.com,Chennai,2024-04-03,Wireless Earbuds,Electronics,1499,2998.0,False
+O00300,kavya.pillai5@mail.com,P007,2.0,599.0,Cancelled,2024-11-20,C0005,Kavya Pillai,kavya.pillai5@mail.com,Mumbai,2024-03-20,Face Serum,Beauty,599,1198.0,False
+O00301,ravi.das10@mail.com,P012,1.0,899.0,Unknown,2024-09-17,C0010,Ravi Das,ravi.das10@mail.com,Bangalore,2024-07-05,Sunglasses,Fashion,899,899.0,False
+O00302,arun.pillai35@mail.com,P009,1.0,1099.0,Pending,2024-11-25,C0035,Arun Pillai,arun.pillai35@mail.com,Bangalore,2025-02-13,Backpack,Fashion,1099,1099.0,False
+O00303,lakshmi.iyer52@mail.com,P009,1.0,1099.0,Cancelled,2024-10-31,C0052,Lakshmi Iyer,lakshmi.iyer52@mail.com,Bangalore,2024-06-19,Backpack,Fashion,1099,1099.0,False
+O00304,anitha.nair23@mail.com,P003,1.0,499.0,Pending,2024-11-13,C0023,Anitha Nair,anitha.nair23@mail.com,Unknown,2025-01-25,Cotton T-Shirt,Fashion,499,499.0,False
+O00305,suresh.sharma22@mail.com,P007,1.0,599.0,Cancelled,2024-06-28,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,Face Serum,Beauty,599,599.0,False
+O00306,lakshmi.raj26@mail.com,P008,2.0,2499.0,Completed,2024-12-15,C0026,Lakshmi Raj,lakshmi.raj26@mail.com,Coimbatore,2024-09-29,Running Shoes,Sports,2499,4998.0,True
+O00307,vijay.pillai19@mail.com,P007,2.0,599.0,Pending,2024-06-22,C0019,Vijay Pillai,vijay.pillai19@mail.com,Unknown,2024-08-27,Face Serum,Beauty,599,1198.0,False
+O00309,lakshmi.kumar20@mail.com,P001,1.0,1499.0,Pending,2024-12-25,C0020,Lakshmi Kumar,lakshmi.kumar20@mail.com,Bangalore,2024-02-28,Wireless Earbuds,Electronics,1499,1499.0,False
+O00310,anitha.raj44@mail.com,P003,2.0,499.0,Pending,2024-12-07,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,Cotton T-Shirt,Fashion,499,998.0,False
+O00311,divya.nair30@mail.com,P004,2.0,1299.0,Pending,2024-12-22,C0030,Divya Nair,divya.nair30@mail.com,Chennai,2024-12-28,Denim Jeans,Fashion,1299,2598.0,False
+O00313,arun.iyer49@mail.com,P012,1.0,899.0,Completed,2024-12-25,C0049,Arun Iyer,arun.iyer49@mail.com,Chennai,2024-02-23,Sunglasses,Fashion,899,899.0,True
+O00316,karthik.das53@mail.com,P011,1.0,299.0,Pending,2024-11-28,C0053,Karthik Das,karthik.das53@mail.com,Chennai,2024-08-06,Phone Case,Electronics,299,299.0,False
+O00317,lakshmi.kumar20@mail.com,P002,2.0,2299.0,Pending,2024-07-17,C0020,Lakshmi Kumar,lakshmi.kumar20@mail.com,Bangalore,2024-02-28,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00322,divya.das15@mail.com,P005,2.0,899.0,Completed,2024-06-09,C0015,Divya Das,divya.das15@mail.com,Bangalore,2025-04-13,Non-stick Pan,Home & Kitchen,899,1798.0,True
+O00323,meena.raj37@mail.com,P012,1.0,899.0,Cancelled,2024-12-15,C0037,Meena Raj,meena.raj37@mail.com,Bangalore,2024-10-03,Sunglasses,Fashion,899,899.0,False
+O00325,kavya.sharma54@mail.com,P011,3.0,299.0,Completed,2024-12-10,C0054,Kavya Sharma,kavya.sharma54@mail.com,Chennai,2025-03-03,Phone Case,Electronics,299,897.0,True
+O00326,anitha.nair23@mail.com,P002,2.0,2299.0,Pending,2024-09-21,C0023,Anitha Nair,anitha.nair23@mail.com,Unknown,2025-01-25,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00327,ramesh.das40@mail.com,P011,2.0,299.0,Cancelled,2024-09-18,C0040,Ramesh Das,ramesh.das40@mail.com,Unknown,2024-05-31,Phone Case,Electronics,299,598.0,False
+O00328,meena.raj37@mail.com,P006,2.0,699.0,Cancelled,2024-10-15,C0037,Meena Raj,meena.raj37@mail.com,Bangalore,2024-10-03,Yoga Mat,Sports,699,1398.0,False
+O00329,lakshmi.raj18@mail.com,P009,2.0,1099.0,Pending,2024-11-21,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,Backpack,Fashion,1099,2198.0,False
+O00330,lakshmi.raj18@mail.com,P011,2.0,299.0,Pending,2024-07-03,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,Phone Case,Electronics,299,598.0,False
+O00331,arun.iyer49@mail.com,P011,2.0,299.0,Cancelled,2024-09-09,C0049,Arun Iyer,arun.iyer49@mail.com,Chennai,2024-02-23,Phone Case,Electronics,299,598.0,False
+O00332,divya.kumar25@mail.com,P008,1.0,2499.0,Cancelled,2024-06-20,C0025,Divya Kumar,divya.kumar25@mail.com,Coimbatore,2024-10-17,Running Shoes,Sports,2499,2499.0,False
+O00336,naveen.iyer9@mail.com,P010,1.0,799.0,Unknown,2024-10-03,C0009,Naveen Iyer,naveen.iyer9@mail.com,Hyderabad,2025-03-13,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00337,lakshmi.das60@mail.com,P003,1.0,499.0,Pending,2024-09-21,C0060,Lakshmi Das,lakshmi.das60@mail.com,Bangalore,2025-02-22,Cotton T-Shirt,Fashion,499,499.0,False
+O00338,divya.reddy45@mail.com,P003,2.0,499.0,Cancelled,2024-11-14,C0045,Divya Reddy,divya.reddy45@mail.com,Bangalore,2024-07-21,Cotton T-Shirt,Fashion,499,998.0,False
+O00339,arun.reddy24@mail.com,P005,2.0,899.0,Cancelled,2024-06-22,C0024,Arun Reddy,arun.reddy24@mail.com,Bangalore,2024-02-27,Non-stick Pan,Home & Kitchen,899,1798.0,False
+O00340,arun.iyer49@mail.com,P004,1.0,1299.0,Completed,2024-09-18,C0049,Arun Iyer,arun.iyer49@mail.com,Chennai,2024-02-23,Denim Jeans,Fashion,1299,1299.0,True
+O00344,karthik.das53@mail.com,P003,2.0,499.0,Completed,2024-11-12,C0053,Karthik Das,karthik.das53@mail.com,Chennai,2024-08-06,Cotton T-Shirt,Fashion,499,998.0,True
+O00345,ramesh.iyer11@mail.com,P008,2.0,2499.0,Completed,2024-08-29,C0011,Ramesh Iyer,ramesh.iyer11@mail.com,Chennai,2024-12-15,Running Shoes,Sports,2499,4998.0,True
+O00346,ramesh.das40@mail.com,P011,1.0,299.0,Completed,2024-09-22,C0040,Ramesh Das,ramesh.das40@mail.com,Unknown,2024-05-31,Phone Case,Electronics,299,299.0,True
+O00348,karthik.kumar42@mail.com,P002,3.0,2299.0,Completed,2024-08-03,C0042,Karthik Kumar,karthik.kumar42@mail.com,Chennai,2024-02-11,Bluetooth Speaker,Electronics,2299,6897.0,True
+O00349,ramesh.nair43@mail.com,P005,2.0,899.0,Cancelled,2024-07-23,C0043,Ramesh Nair,ramesh.nair43@mail.com,Chennai,2025-04-27,Non-stick Pan,Home & Kitchen,899,1798.0,False
+O00350,ramesh.iyer51@mail.com,P004,1.0,1299.0,Completed,2024-10-05,C0051,Ramesh Iyer,ramesh.iyer51@mail.com,Hyderabad,2024-05-08,Denim Jeans,Fashion,1299,1299.0,True
+O00352,anitha.raj44@mail.com,P003,1.0,499.0,Completed,2024-12-13,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,Cotton T-Shirt,Fashion,499,499.0,True
+O00353,naveen.reddy14@mail.com,P001,3.0,1499.0,Pending,2024-06-16,C0014,Naveen Reddy,naveen.reddy14@mail.com,Mumbai,2024-02-03,Wireless Earbuds,Electronics,1499,4497.0,False
+O00354,lakshmi.raj26@mail.com,P002,2.0,2299.0,Cancelled,2024-11-11,C0026,Lakshmi Raj,lakshmi.raj26@mail.com,Coimbatore,2024-09-29,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00356,suresh.nair28@mail.com,P012,2.0,899.0,Pending,2024-08-01,C0028,Suresh Nair,suresh.nair28@mail.com,Coimbatore,2024-07-23,Sunglasses,Fashion,899,1798.0,False
+O00357,ramesh.das40@mail.com,P010,2.0,799.0,Completed,2024-06-15,C0040,Ramesh Das,ramesh.das40@mail.com,Unknown,2024-05-31,LED Desk Lamp,Home & Kitchen,799,1598.0,True
+O00358,ramesh.iyer11@mail.com,P008,3.0,2499.0,Completed,2024-08-28,C0011,Ramesh Iyer,ramesh.iyer11@mail.com,Chennai,2024-12-15,Running Shoes,Sports,2499,7497.0,True
+O00359,ramesh.nair56@mail.com,P005,1.0,899.0,Pending,2024-12-05,C0056,Ramesh Nair,ramesh.nair56@mail.com,Hyderabad,2024-06-30,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00360,kavya.pillai5@mail.com,P005,1.0,899.0,Pending,2024-11-30,C0005,Kavya Pillai,kavya.pillai5@mail.com,Mumbai,2024-03-20,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00361,vijay.sharma55@mail.com,P010,2.0,799.0,Completed,2024-07-13,C0055,Vijay Sharma,vijay.sharma55@mail.com,Bangalore,2024-07-05,LED Desk Lamp,Home & Kitchen,799,1598.0,True
+O00362,anitha.raj44@mail.com,P012,1.0,899.0,Completed,2024-06-30,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,Sunglasses,Fashion,899,899.0,True
+O00363,arun.reddy31@mail.com,P006,2.0,699.0,Completed,2024-09-07,C0031,Arun Reddy,arun.reddy31@mail.com,Bangalore,2024-05-01,Yoga Mat,Sports,699,1398.0,True
+O00366,lakshmi.iyer52@mail.com,P009,1.0,1099.0,Cancelled,2024-06-12,C0052,Lakshmi Iyer,lakshmi.iyer52@mail.com,Bangalore,2024-06-19,Backpack,Fashion,1099,1099.0,False
+O00368,ramesh.iyer51@mail.com,P005,2.0,899.0,Unknown,2024-12-07,C0051,Ramesh Iyer,ramesh.iyer51@mail.com,Hyderabad,2024-05-08,Non-stick Pan,Home & Kitchen,899,1798.0,False
+O00369,kavya.sharma50@mail.com,P004,2.0,1299.0,Pending,2024-12-05,C0050,Kavya Sharma,kavya.sharma50@mail.com,Bangalore,2024-11-05,Denim Jeans,Fashion,1299,2598.0,False
+O00370,arun.pillai35@mail.com,P006,1.0,699.0,Completed,2024-11-10,C0035,Arun Pillai,arun.pillai35@mail.com,Bangalore,2025-02-13,Yoga Mat,Sports,699,699.0,True
+O00371,divya.kumar25@mail.com,P012,1.0,899.0,Cancelled,2024-12-04,C0025,Divya Kumar,divya.kumar25@mail.com,Coimbatore,2024-10-17,Sunglasses,Fashion,899,899.0,False
+O00372,divya.das4@mail.com,P003,1.0,499.0,Cancelled,2024-11-30,C0004,Divya Das,divya.das4@mail.com,Chennai,2025-02-18,Cotton T-Shirt,Fashion,499,499.0,False
+O00374,naveen.das33@mail.com,P003,1.0,499.0,Completed,2024-11-11,C0033,Naveen Das,naveen.das33@mail.com,Hyderabad,2024-04-07,Cotton T-Shirt,Fashion,499,499.0,True
+O00376,sneha.iyer48@mail.com,P006,3.0,699.0,Cancelled,2024-08-21,C0048,Sneha Iyer,sneha.iyer48@mail.com,Unknown,2025-03-02,Yoga Mat,Sports,699,2097.0,False
+O00377,kavya.sharma50@mail.com,P010,1.0,799.0,Unknown,2024-06-28,C0050,Kavya Sharma,kavya.sharma50@mail.com,Bangalore,2024-11-05,LED Desk Lamp,Home & Kitchen,799,799.0,False
+O00379,priya.raj6@mail.com,P003,3.0,499.0,Completed,2024-12-24,C0006,Priya Raj,priya.raj6@mail.com,Chennai,2024-07-02,Cotton T-Shirt,Fashion,499,1497.0,True
+O00380,vijay.sharma55@mail.com,P006,2.0,699.0,Pending,2024-07-08,C0055,Vijay Sharma,vijay.sharma55@mail.com,Bangalore,2024-07-05,Yoga Mat,Sports,699,1398.0,False
+O00381,anitha.raj44@mail.com,P005,1.0,899.0,Unknown,2024-08-06,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00382,suresh.das36@mail.com,P004,1.0,1299.0,Completed,2024-06-25,C0036,Suresh Das,suresh.das36@mail.com,Chennai,2024-04-03,Denim Jeans,Fashion,1299,1299.0,True
+O00384,anitha.pillai17@mail.com,P002,2.0,2299.0,Unknown,2024-06-06,C0017,Anitha Pillai,anitha.pillai17@mail.com,Chennai,2024-03-11,Bluetooth Speaker,Electronics,2299,4598.0,False
+O00387,lakshmi.raj18@mail.com,P005,1.0,899.0,Cancelled,2024-09-23,C0018,Lakshmi Raj,lakshmi.raj18@mail.com,Chennai,2024-03-22,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00388,suresh.sharma32@mail.com,P007,1.0,599.0,Pending,2024-10-19,C0032,Suresh Sharma,suresh.sharma32@mail.com,Bangalore,2025-03-27,Face Serum,Beauty,599,599.0,False
+O00389,divya.reddy13@mail.com,P011,2.0,299.0,Completed,2024-12-22,C0013,Divya Reddy,divya.reddy13@mail.com,Chennai,2025-02-01,Phone Case,Electronics,299,598.0,True
+O00391,suresh.nair12@mail.com,P001,2.0,1499.0,Cancelled,2024-08-21,C0012,Suresh Nair,suresh.nair12@mail.com,Unknown,2024-07-13,Wireless Earbuds,Electronics,1499,2998.0,False
+O00392,arun.reddy31@mail.com,P009,2.0,1099.0,Completed,2024-08-31,C0031,Arun Reddy,arun.reddy31@mail.com,Bangalore,2024-05-01,Backpack,Fashion,1099,2198.0,True
+O00393,karthik.nair16@mail.com,P005,1.0,899.0,Cancelled,2024-10-15,C0016,Karthik Nair,karthik.nair16@mail.com,Hyderabad,2024-10-02,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00394,lakshmi.iyer52@mail.com,P007,2.0,599.0,Pending,2024-08-30,C0052,Lakshmi Iyer,lakshmi.iyer52@mail.com,Bangalore,2024-06-19,Face Serum,Beauty,599,1198.0,False
+O00396,divya.reddy13@mail.com,P008,2.0,2499.0,Completed,2024-10-17,C0013,Divya Reddy,divya.reddy13@mail.com,Chennai,2025-02-01,Running Shoes,Sports,2499,4998.0,True
+O00398,suresh.sharma22@mail.com,P012,1.0,899.0,Completed,2024-07-16,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,Sunglasses,Fashion,899,899.0,True
+O00400,suresh.sharma22@mail.com,P005,2.0,899.0,Pending,2024-08-22,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,Non-stick Pan,Home & Kitchen,899,1798.0,False
+O00402,priya.nair47@mail.com,P012,2.0,899.0,Pending,2024-08-15,C0047,Priya Nair,priya.nair47@mail.com,Bangalore,2024-03-08,Sunglasses,Fashion,899,1798.0,False
+O00404,kavya.das7@mail.com,P008,1.0,2499.0,Pending,2024-07-07,C0007,Kavya Das,kavya.das7@mail.com,Bangalore,2025-05-13,Running Shoes,Sports,2499,2499.0,False
+O00406,divya.reddy45@mail.com,P002,1.0,2299.0,Completed,2024-08-29,C0045,Divya Reddy,divya.reddy45@mail.com,Bangalore,2024-07-21,Bluetooth Speaker,Electronics,2299,2299.0,True
+O00408,kavya.das7@mail.com,P008,2.0,2499.0,Completed,2024-12-19,C0007,Kavya Das,kavya.das7@mail.com,Bangalore,2025-05-13,Running Shoes,Sports,2499,4998.0,True
+O00409,suresh.kumar3@mail.com,P005,3.0,899.0,Completed,2024-06-06,C0003,Suresh Kumar,suresh.kumar3@mail.com,Hyderabad,2025-01-01,Non-stick Pan,Home & Kitchen,899,2697.0,True
+O00410,anitha.sharma57@mail.com,P007,1.0,599.0,Completed,2024-07-12,C0057,Anitha Sharma,anitha.sharma57@mail.com,Chennai,2024-05-01,Face Serum,Beauty,599,599.0,True
+O00413,suresh.das36@mail.com,P012,3.0,899.0,Cancelled,2024-12-04,C0036,Suresh Das,suresh.das36@mail.com,Chennai,2024-04-03,Sunglasses,Fashion,899,2697.0,False
+O00416,arun.reddy41@mail.com,P005,1.0,899.0,Pending,2024-06-21,C0041,Arun Reddy,arun.reddy41@mail.com,Unknown,2024-10-26,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00419,ravi.das10@mail.com,P012,1.0,899.0,Pending,2024-11-18,C0010,Ravi Das,ravi.das10@mail.com,Bangalore,2024-07-05,Sunglasses,Fashion,899,899.0,False
+O00422,meena.reddy46@mail.com,P001,2.0,1499.0,Unknown,2024-10-07,C0046,Meena Reddy,meena.reddy46@mail.com,Chennai,2025-04-24,Wireless Earbuds,Electronics,1499,2998.0,False
+O00423,ramesh.iyer11@mail.com,P004,2.0,1299.0,Completed,2024-12-24,C0011,Ramesh Iyer,ramesh.iyer11@mail.com,Chennai,2024-12-15,Denim Jeans,Fashion,1299,2598.0,True
+O00424,suresh.nair28@mail.com,P004,2.0,1299.0,Cancelled,2024-12-28,C0028,Suresh Nair,suresh.nair28@mail.com,Coimbatore,2024-07-23,Denim Jeans,Fashion,1299,2598.0,False
+O00427,karthik.pillai38@mail.com,P010,1.0,799.0,Completed,2024-12-12,C0038,Karthik Pillai,karthik.pillai38@mail.com,Chennai,2024-04-19,LED Desk Lamp,Home & Kitchen,799,799.0,True
+O00428,ramesh.nair56@mail.com,P009,3.0,1099.0,Unknown,2024-08-28,C0056,Ramesh Nair,ramesh.nair56@mail.com,Hyderabad,2024-06-30,Backpack,Fashion,1099,3297.0,False
+O00430,anitha.sharma57@mail.com,P006,1.0,699.0,Cancelled,2024-11-24,C0057,Anitha Sharma,anitha.sharma57@mail.com,Chennai,2024-05-01,Yoga Mat,Sports,699,699.0,False
+O00431,ramesh.raj2@mail.com,P006,3.0,699.0,Unknown,2024-12-27,C0002,Ramesh Raj,ramesh.raj2@mail.com,Bangalore,2024-01-17,Yoga Mat,Sports,699,2097.0,False
+O00432,anitha.raj44@mail.com,P002,3.0,2299.0,Unknown,2024-07-29,C0044,Anitha Raj,anitha.raj44@mail.com,Bangalore,2024-10-25,Bluetooth Speaker,Electronics,2299,6897.0,False
+O00433,naveen.reddy21@mail.com,P005,1.0,899.0,Cancelled,2024-12-04,C0021,Naveen Reddy,naveen.reddy21@mail.com,Bangalore,2024-08-10,Non-stick Pan,Home & Kitchen,899,899.0,False
+O00435,meena.reddy46@mail.com,P009,1.0,1099.0,Cancelled,2024-09-12,C0046,Meena Reddy,meena.reddy46@mail.com,Chennai,2025-04-24,Backpack,Fashion,1099,1099.0,False
+O00437,divya.nair30@mail.com,P009,1.0,1099.0,Cancelled,2024-09-10,C0030,Divya Nair,divya.nair30@mail.com,Chennai,2024-12-28,Backpack,Fashion,1099,1099.0,False
+O00440,karthik.kumar42@mail.com,P004,3.0,1299.0,Completed,2024-11-21,C0042,Karthik Kumar,karthik.kumar42@mail.com,Chennai,2024-02-11,Denim Jeans,Fashion,1299,3897.0,True
+O00441,kavya.sharma50@mail.com,P011,2.0,299.0,Completed,2024-06-03,C0050,Kavya Sharma,kavya.sharma50@mail.com,Bangalore,2024-11-05,Phone Case,Electronics,299,598.0,True
+O00442,vijay.kumar39@mail.com,P005,3.0,899.0,Pending,2024-11-30,C0039,Vijay Kumar,vijay.kumar39@mail.com,Unknown,2024-05-15,Non-stick Pan,Home & Kitchen,899,2697.0,False
+O00443,divya.nair30@mail.com,P005,3.0,899.0,Pending,2024-07-26,C0030,Divya Nair,divya.nair30@mail.com,Chennai,2024-12-28,Non-stick Pan,Home & Kitchen,899,2697.0,False
+O00444,ramesh.raj1@mail.com,P009,3.0,1099.0,Completed,2024-11-17,C0001,Ramesh Raj,ramesh.raj1@mail.com,Chennai,2024-05-20,Backpack,Fashion,1099,3297.0,True
+O00445,suresh.sharma22@mail.com,P005,3.0,899.0,Cancelled,2024-11-11,C0022,Suresh Sharma,suresh.sharma22@mail.com,Unknown,2024-02-24,Non-stick Pan,Home & Kitchen,899,2697.0,False
+O00448,meena.raj37@mail.com,P004,2.0,1299.0,Unknown,2024-08-27,C0037,Meena Raj,meena.raj37@mail.com,Bangalore,2024-10-03,Denim Jeans,Fashion,1299,2598.0,False
+O00449,ramesh.nair43@mail.com,P006,2.0,699.0,Completed,2024-10-08,C0043,Ramesh Nair,ramesh.nair43@mail.com,Chennai,2025-04-27,Yoga Mat,Sports,699,1398.0,True
+O00450,arun.reddy31@mail.com,P003,2.0,499.0,Pending,2024-12-07,C0031,Arun Reddy,arun.reddy31@mail.com,Bangalore,2024-05-01,Cotton T-Shirt,Fashion,499,998.0,False

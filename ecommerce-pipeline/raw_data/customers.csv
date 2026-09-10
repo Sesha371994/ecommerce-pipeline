@@ -1,0 +1,61 @@
+customer_id,name,email,signup_date,city
+C0001,Ramesh Raj,RAMESH.RAJ1@MAIL.COM,2024-05-20,chennai
+C0002,  Ramesh Raj  ,ramesh.raj2@mail.com,2024-01-17,Bangalore
+C0003,Suresh Kumar,suresh.kumar3@mail.com,01-01-2025,Hyderabad
+C0004,Divya Das,divya.das4@mail.com,2025-02-18,CHENNAI
+C0005,Kavya Pillai,kavya.pillai5@mail.com,2024-03-20,Mumbai
+C0006,Priya Raj,priya.raj6@mail.com,02/07/2024,Chennai
+C0007,  Kavya Das  ,kavya.das7@mail.com,13/05/2025,bangalore
+C0008,  Lakshmi Reddy  ,lakshmi.reddy8@mail.com,2024-12-26,Bangalore
+C0009,Naveen Iyer,naveen.iyer9@mail.com,2025-03-13,Hyderabad
+C0010,Ravi Das,ravi.das10@mail.com,2024-07-05,Bangalore
+C0011,  Ramesh Iyer  ,ramesh.iyer11@mail.com,12-15-2024,CHENNAI
+C0012,Suresh Nair,suresh.nair12@mail.com,13/07/2024,
+C0013,Divya Reddy,divya.reddy13@mail.com,2025-02-01,Chennai
+C0014,Naveen Reddy,naveen.reddy14@mail.com,2024-02-03,Mumbai
+C0015,Divya Das,divya.das15@mail.com,04-13-2025,bangalore
+C0016,Karthik Nair,karthik.nair16@mail.com,02/10/2024,Hyderabad
+C0017,Anitha Pillai,anitha.pillai17@mail.com,03-11-2024,Chennai
+C0018,Lakshmi Raj,lakshmi.raj18@mail.com,03-22-2024,chennai
+C0019,Vijay Pillai,vijay.pillai19@mail.com,08-27-2024,
+C0020,Lakshmi Kumar,lakshmi.kumar20@mail.com,02-28-2024,bangalore
+C0021,Naveen Reddy,NAVEEN.REDDY21@MAIL.COM,2024-08-10,bangalore
+C0022,Suresh Sharma,suresh.sharma22@mail.com,02-24-2024,
+C0023,Anitha Nair,anitha.nair23@mail.com,2025-01-25,
+C0024,Arun Reddy,arun.reddy24@mail.com,27/02/2024,bangalore
+C0025,  Divya Kumar  ,divya.kumar25@mail.com,2024-10-17,Coimbatore
+C0026,Lakshmi Raj,lakshmi.raj26@mail.com,2024-09-29,Coimbatore
+C0027,Suresh Sharma,suresh.sharma27@mail.com,03-22-2025,Bangalore
+C0028,Suresh Nair,suresh.nair28@mail.com,07-23-2024,Coimbatore
+C0029,Suresh Das,SURESH.DAS29@MAIL.COM,2024-04-25,
+C0030,  Divya Nair  ,DIVYA.NAIR30@MAIL.COM,12-28-2024,chennai
+C0031,Arun Reddy,ARUN.REDDY31@MAIL.COM,01/05/2024,Bangalore
+C0032,Suresh Sharma,suresh.sharma32@mail.com,03-27-2025,Bangalore
+C0033,  Naveen Das  ,naveen.das33@mail.com,2024-04-07,Hyderabad
+C0034,  Sneha Pillai  ,sneha.pillai34@mail.com,03-18-2025,chennai
+C0035,Arun Pillai,arun.pillai35@mail.com,2025-02-13,Bangalore
+C0036,Suresh Das,SURESH.DAS36@MAIL.COM,03/04/2024,chennai
+C0037,Meena Raj,MEENA.RAJ37@MAIL.COM,2024-10-03,Bangalore
+C0038,Karthik Pillai,karthik.pillai38@mail.com,19/04/2024,CHENNAI
+C0039,Vijay Kumar,vijay.kumar39@mail.com,15/05/2024,
+C0040,Ramesh Das,ramesh.das40@mail.com,2024-05-31,
+C0041,Arun Reddy,ARUN.REDDY41@MAIL.COM,26/10/2024,
+C0042,  Karthik Kumar  ,karthik.kumar42@mail.com,2024-02-11,chennai
+C0043,Ramesh Nair,ramesh.nair43@mail.com,04-27-2025,Chennai
+C0044,Anitha Raj,anitha.raj44@mail.com,10-25-2024,bangalore
+C0045,Divya Reddy,divya.reddy45@mail.com,2024-07-21,bangalore
+C0046,  Meena Reddy  ,meena.reddy46@mail.com,2025-04-24,chennai
+C0047,Priya Nair,priya.nair47@mail.com,08/03/2024,Bangalore
+C0048,Sneha Iyer,sneha.iyer48@mail.com,03-02-2025,
+C0049,Arun Iyer,arun.iyer49@mail.com,2024-02-23,chennai
+C0050,Kavya Sharma,kavya.sharma50@mail.com,2024-11-05,Bangalore
+C0051,  Ramesh Iyer  ,ramesh.iyer51@mail.com,2024-05-08,Hyderabad
+C0052,Lakshmi Iyer,LAKSHMI.IYER52@MAIL.COM,2024-06-19,bangalore
+C0053,  Karthik Das  ,karthik.das53@mail.com,08-06-2024,chennai
+C0054,Kavya Sharma,kavya.sharma54@mail.com,03/03/2025,CHENNAI
+C0055,Vijay Sharma,VIJAY.SHARMA55@MAIL.COM,2024-07-05,Bangalore
+C0056,Ramesh Nair,ramesh.nair56@mail.com,06-30-2024,Hyderabad
+C0057,Anitha Sharma,anitha.sharma57@mail.com,2024-05-01,CHENNAI
+C0058,Vijay Kumar,vijay.kumar58@mail.com,18/04/2025,Hyderabad
+C0059,Naveen Nair,naveen.nair59@mail.com,02-07-2025,Chennai
+C0060,Lakshmi Das,lakshmi.das60@mail.com,22/02/2025,Bangalore
